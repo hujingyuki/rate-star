@@ -47,7 +47,7 @@ export default {
         :key="index" 
         :class="value > index ? 'checked' : 'zero'" 
         @click="check(index)"
-        :style="{'margin-left': space + 'px'}"></li>
+        :style="{'margin-right': space + 'px'}"></li>
   </ul>
 </template>
 
