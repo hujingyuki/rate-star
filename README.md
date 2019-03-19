@@ -67,4 +67,4 @@
 
 V1.0.0
 
-![](E:\workplace\学习\rate-star\image\test.png)
+![](./image/test.png)
